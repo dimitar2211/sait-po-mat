@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <style>
+            section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+
+    background: url('https://github.com/Hashtechieofficial/Form-/blob/main/background6.jpg?raw=true%27)no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+        </style>
+
+    </head>
+    <body>
+        <section>
+            <h1>Благодарим за отделеното внимание!</h1>
+        </section>
+
+        </body>
+</html>
